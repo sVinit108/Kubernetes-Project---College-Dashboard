@@ -6,6 +6,9 @@ then we focused on HTML and CSS to build a static webpage for our problem statem
 our aim was to create a dynamic website and make it interactive and we did this with the help of Javascript , Once we were done with Devloping our website and making sure we covered every aim of the project we moved on connect it with flask 
 First we made the docker image 
 we ran the docker image on our selected port then we initialzied mini cube dasboard then we created 3 yml for configuration (deplyment.yml, ingress.yml, service.yml)
+We then deployed the web app on heroku.
+
+Web app Link:- (https://college-dashboard-webapp.herokuapp.com/)
 
 
 
@@ -30,3 +33,5 @@ we ran the docker image on our selected port then we initialzied mini cube dasbo
 - DOCKER
 - FLASK
 - KUBERNETES 
+
+
